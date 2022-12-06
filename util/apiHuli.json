@@ -1,0 +1,83 @@
+{
+  "cultura": "Huli Wigmen",
+  "caracteristicas": {
+    "locacion": {
+      "inf": "La cultura Huli Wigmen se encuentra en la provincia de Enga, en la región de la Cordillera Central de Papúa Nueva Guinea.",
+      "img": "./assets/locacion/ubicacion.png"
+    },
+    "lengua": "El idioma Huli es una lengua austronesiana, que pertenece al grupo de las lenguas de Papúa Nueva Guinea.",
+    "pueblos": {
+      "nombre": "Huli",
+      "ubicacion": "Se encuentra en la provincia de Enga (Tari, Koroba, Margaraima y Komo)",
+      "inf": "Los Huli son un pueblo indígena que vive en la Provincia de Hela, en Papúa Nueva Guinea. Principalmente hablan Huli y Tok Pisin; muchos conocen también algunas de las lenguas circundantes y algunos de ellos también hablan inglés. Son uno de los grupos culturales más grandes en Papúa Nueva Guinea, con hasta 250,000 habitantes",
+      "img": "./assets/pueblo/pueblo.png"
+    },
+    "comidas": [
+      {
+        "nombre": "Batata",
+        "img": "./assets/comida/batata.png"
+      },
+      {
+        "nombre": "Maiz",
+        "img": "./assets/comida/maiz.png"
+      },
+      {
+        "nombre": "Papas",
+        "img": "./assets/comida/papa.png"
+      },
+      {
+        "nombre": "Repollo",
+        "img": "./assets/comida/repollo.png"
+      }
+    ],
+    "vestimentas": [
+      {
+        "prenda": "Tradicional",
+        "img": "./assets/pueblo/vestimenta.png",
+        "inf": "En la vestimenta tradicional hulli los hombres decoran sus cuerpos con arcillas de color y llevan tocados para las ceremonias, y para ello aprenden a añadir cabello usando pigmentos, plumas de aves y flores como elementos ornamentales."
+      }
+    ]
+  },
+  "edificaciones": [
+    {
+      "nombre": "Muros de barro",
+      "pueblo": "Huli",
+      "inf": "Los muros de barro que dividen unas propiedades de otras",
+      "caracteristicas": "Cada muro delimita y defiende un clan familiar, donde está la lealtad del individuo.",
+      "img": "./assets/edificaciones/muro.png"
+    },
+    {
+      "nombre": "Aeropuerto del pueblo Huli",
+      "pueblo": "Huli",
+      "inf": "El aeropuerto del pueblo Huli, es muy pequeño y solo tiene una pista de aterrizaje.",
+      "caracteristicas": "Su aeropuerto es el único que tiene vuelos directos a Tari",
+      "img": "./assets/edificaciones/aeropuerto.png"
+    }
+  ],
+  "relatos": [
+    {
+      "titulo": "Los hombres de barro",
+      "tipo": "Leyenda",
+      "contenido": "La leyenda dice que el origen de este disfraz, tuvo lugar durante una batalla en la que el enemigo les forzó a marcharse al otro lado del río. Al día siguiente, les sorprendieron por la mañana saliendo del barro, provocando el miedo y la inquietud en los atacantes, que pensaron que eran espíritus. Así la tribu Asaro pudo escapar de sus atacantes, quienes volvieron a su pueblo e inmediatamente hicieron una ceremonia para ahuyentar a los espíritus.",
+      "img": "./assets/relatos/hombreBarro.png"
+    },
+    {
+      "titulo": "Mito de la creación Kaluli",
+      "tipo": "Mito",
+      "contenido": "Durante el tiempo de hena madaliaki la gente cubría la tierra pero no había nada más: ni árboles ni plantas, ni animales, ni arroyos. Sin nada que usar como alimento o refugio, la gente se volvió fría y hambrienta. Entonces un hombre entre ellos reunió a todos y delegó diferentes tareas. Escogió a un grupo para que se convirtieran en árboles y así lo hicieron. A otro para que se convirtieran en sagú, a otro para que fueran peces, otro plátanos y así sucesivamente hasta que el mundo rebosaba de animales, comida, arroyos, montañas y todas las demás características naturales. Únicamente quedaban unas pocas personas y se convirtieron en los antepasados de los seres humanos actuales.",
+      "img": "./assets/relatos/kaluli.png"
+    },
+    {
+      "titulo": "Creacion de Huli",
+      "tipo": "Mito",
+      "contenido": "Al principio, había tierra y las deidades. Honabe, una deidad femenina, fue el primer habitante de la tierra. Cocinaba su comida con el calor de sus propios genitales. Honabe fue seducida por una deidad masculina, Timbu, y dio a luz a cinco deidades masculinas: Kormogo, Helabe, Piandela, Ni y Helahuli.; y una deidad femenina, Hana. Después de un tiempo, siete deidades más, colinas, árboles, fuego y agua, el primer pájaro, zarigüeya y cerdo, y arcos y flechas salieron de la descarga menstrual de Honabe. Cuando la deidad Helahuli maduró, se casó con una mujer desconocida que le dio cuatro hijos, Duguba, Duna, Huli y Obene. Los cuatro hermanos tuvieron una pelea que resultó en que Duguba huyera para vivir en el área de Mount Bosavi. Luego, Huli envió a Obene al área de Margarima y a Duna al área del lago Kopiago, mientras él permanecía en la cuenca del río Tagari. Así, los primeros humanos, cuatro hermanos, se asentaron por todo el mundo para formar sus familias. Ahora Huli engendró muchos hijos de una mujer del área del Monte Bosavi y se instaló en la cuenca del río Tagari cerca de Burani para cultivar taro. Una mujer le enseñó a construir casas ya usar el arco y la flecha. Varias generaciones después, la lluvia cesó, el suelo se secó hasta convertirse en polvo y los ríos prácticamente habían desaparecido. El río Tagari todavía tenía algunas piscinas profundas de agua con peces en ellas. Todo el pueblo tenía hambre porque las cosechas se cocían al sol. Así que todos fueron al río Tagari para pescar tantos peces como pudieran. Toda la gente de Huli estaba tratando de pescar cuando el río se desbordó repentinamente y mató a todos los seres vivos: hombres, pájaros, zarigüeyas, todo. Toda la tierra estaba vacía. Cuando las aguas de la inundación amainaron, las deidades recrearon pájaros y zarigüeyas, y estos a su vez dieron a luz descendencia humana, los fundadores de los clanes actuales.",
+      "img": "./assets/relatos/creacionHuli.png"
+    },
+    {
+      "titulo": "Leyenda de Bara Bara",
+      "tipo": "Leyenda",
+      "contenido": "En la historia temprana de Huli, surgió un joven importante llamado Baya Baya. Era hijo del gran dios supremo de Hela, Datagaliwabe, quien se transformó en el dios sol Ni, bajó a la tierra y se quedó entre el pueblo huli. Baya Baya fue concebida por la virgen Tiame. Era un joven perfecto que andaba haciendo el bien y persuadiendo a la gente para que dejara de pelear, cometer adulterio y hacer cosas malas.",
+      "img": "./assets/relatos/baraBara.png"
+    }
+  ]
+}
